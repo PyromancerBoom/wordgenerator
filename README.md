@@ -2,7 +2,6 @@
 This is an isolated app in flutter to implement the InfinityListView of flutter.
 
 Here's an app I made for Hacktoberfest 2021.
-There are various types of sliders in the app.
 
 ![Alt Text](Animation.gif )
 
